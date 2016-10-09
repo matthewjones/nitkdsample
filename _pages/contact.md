@@ -10,8 +10,9 @@ author_profile: true
 14829 Jonathan Drive<br>
 Westfield, IN 46074
 </address>
+<br>
 
-  
+
 norindtkd@gmail.com<br>
 (317) 815-1701<br>
 (317) 440-2822
@@ -22,6 +23,7 @@ norindtkd@gmail.com<br>
 9012 E. 126th Street<br>
 Fishers, IN 46038
 </address>
+<br>
 
 
 (317) 595-9622
@@ -32,6 +34,7 @@ Fishers, IN 46038
 8400 Westfield Blvd.<br>
 Indianapolis, IN 46240
 </address>
+<br>
 
 
 (317) 253-3206
@@ -41,7 +44,7 @@ Indianapolis, IN 46240
 <address>
 7114 Lakeview Parkway West<br>
 Indianapolis, IN 46268
-</address>
+</address><br>
 
 
 (317) 297-9622
@@ -52,6 +55,7 @@ Indianapolis, IN 46268
 301 Satori Parkway<br>
 Avon, IN 46123
 </address>
+<br>
 
 
 (317) 273-9622
@@ -62,6 +66,7 @@ Avon, IN 46123
 7900 S Shelby St.<br>
 Indianapolis, IN 46227
 </address>
+<br>
 
 
 (317) 881-9347
