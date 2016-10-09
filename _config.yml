@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "North Indy Taekwondo"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "North Indy"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Taekwondo"
+  location         : "Indianapolis, IN"
   email            :
   uri              :
   bitbucket        :
