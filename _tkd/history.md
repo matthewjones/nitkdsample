@@ -31,32 +31,35 @@ Today, Taekwondo is practiced by people all over the modern world and was, on Ju
 
 
 <figure>
-	<a href="/images/ancient_korea.jpg"><img src="/images/ancient_korea.jpg"></a>
-	<figcaption><a href="/images/ancient_korea.jpg" title="6th century map of Korea">6th century map of Korea</a>.</figcaption>
+	<a href="/nitkdsample/images/ancient_korea.jpg"><img src="/nitkdsample/images/ancient_korea.jpg"></a>
+	<figcaption><a href="/nitkdsample/images/ancient_korea.jpg" title="6th century map of Korea">6th century map of Korea</a>.</figcaption>
 </figure>
 
 
 
-Important Dates in Korean and Tae Kwon Do History
-| 57BC  | Growth and acceptance of Buddhism. It was during this time that many techniques of Korean martial art were developed in Buddhist monasteries where rigorous training was conducted. |
-| 313AD | Korean forces drove Chinese from Korea. |
-| 425  	| Buddhism established in Korea It was to play an important role in the code of Hwarang. |
-| 526	| First recorded deeds of Hwarang Do or Flower of Youth. |
-| 609	| A Buddhist monk and scholar wrote Sesok Ogye (Five Secular Commandments) that were used as statements of Hwarang ideals. |
-| 918	| Establishment of Koryo Dynasty. |
-| 1018	| Growth and acceptance of Buddhism. It was during this time that many techniques of Korean martial art were developed in Buddhist monasteries where rigorous training was conducted. |
-| 1259	| Mongol armies conquer Korea after a 30 year battle. |
-| 1368	| Koreans freed from Mongols. |
-| 1392	| General Yi founded Yi Dynasty that lasted until 1910. |
-| 1630	| Manchu armies conquered Korea. |
-| 1910	| Japan took control of Korea |
-| 1945	| Russian forces occupied North Korea and U.S. forces occupied South Korea after World War II. |
-| 1950-53	| South Korea fought North Korea in Korean War. It was during this period that the quality of Korean martial arts were developed to their potential. |
-| 1955	| The 4 schools of the Tae Kyon sent representatives to a meeting that chose Tae Kwon Do as the new title of the Korean martial art. |
+**Important Dates in Korean and Tae Kwon Do History**
+
+<table>
+<tr><td>57BC</td><td>Growth and acceptance of Buddhism. It was during this time that many techniques of Korean martial art were developed in Buddhist monasteries where rigorous training was conducted.</td></tr>
+<tr><td>313AD</td><td>Korean forces drove Chinese from Korea.</td></tr>
+<tr><td>425</td><td>Buddhism established in Korea It was to play an important role in the code of Hwarang.</td></tr>
+<tr><td>526</td><td>First recorded deeds of Hwarang Do or Flower of Youth.</td></tr>
+<tr><td>609</td><td>A Buddhist monk and scholar wrote Sesok Ogye (Five Secular Commandments) that were used as statements of Hwarang ideals.</td></tr>
+<tr><td>918</td><td>Establishment of Koryo Dynasty.</td></tr>
+<tr><td>1018</td><td>Growth and acceptance of Buddhism. It was during this time that many techniques of Korean martial art were developed in Buddhist monasteries where rigorous training was conducted.</td></tr>
+<tr><td>1259</td><td>Mongol armies conquer Korea after a 30 year battle.</td></tr>
+<tr><td>1368</td><td>Koreans freed from Mongols.</td></tr>
+<tr><td>1392</td><td>General Yi founded Yi Dynasty that lasted until 1910.</td></tr>
+<tr><td>1630</td><td>Manchu armies conquered Korea.</td></tr>
+<tr><td>1910</td><td>Japan took control of Korea</td></tr>
+<tr><td>1945</td><td>Russian forces occupied North Korea and U.S. forces occupied South Korea after World War II.</td></tr>
+<tr><td>1950-53</td><td>South Korea fought North Korea in Korean War. It was during this period that the quality of Korean martial arts were developed to their potential.</td></tr>
+<tr><td>1955</td><td>The 4 schools of the Tae Kyon sent representatives to a meeting that chose Tae Kwon Do as the new title of the Korean martial art.</td></tr>
+</table>
 
 
 <figure>
-	<a href="/images/newkwon.jpg"><img src="/images/newkwon.jpg"></a>
-	<figcaption><a href="/images/newkwon.jpg" title="The Kwans of Korean martial arts">The Kwans of Korean martial arts</a>.</figcaption>
+	<a href="/nitkdsample/images/newkwon.jpg"><img src="/nitkdsample/images/newkwon.jpg"></a>
+	<figcaption><a href="/nitkdsample/images/newkwon.jpg" title="The Kwans of Korean martial arts">The Kwans of Korean martial arts</a>.</figcaption>
 </figure>
 
