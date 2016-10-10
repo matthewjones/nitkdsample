@@ -25,3 +25,4 @@ In addition to self defense training, some of the specific benefits enjoyed by t
 
 
 Taekwondo is one of the newest sports to be admitted into the Amateur Athletic Union (AAU) Olympic competition. It was a participant sport in the 1987 Pan American Games held here in Indianapolis, and a demonstration sport in the 1988 Summer Olympic Games held in Seoul, Korea.
+

@@ -3,7 +3,7 @@ title: "The History of Taekwondo"
 excerpt: "TAE KWON DO is a Korean style martial art dating back to the 6th century A.D. Tae means to kick or smash with the foot; Kwon means to punch or strike with the fist; Do means the art or method of. "
 layout: single
 sitemap: true
-permalink: /tkd/about/
+permalink: /tkd/history/
 author_profile: true
 ---
 Tae Kyon, the ancient name for Taekwondo, is as old as the history of the Hwarang Do (an ancient military school), and dates back some 1,300 years.

@@ -12,6 +12,9 @@ main:
   - title: "Taekwondo"
     url: /tkd-info
 
+  - title: "Students"
+    url: /student-info
+
 tkd:
   - title: "Taekwondo Information"
     children:
