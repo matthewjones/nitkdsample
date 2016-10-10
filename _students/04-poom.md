@@ -1,10 +1,12 @@
 ---
 title: "Forms Information"
-excerpt: ""
+excerpt: "Descriptions of Forms"
 layout: single
 sitemap: true
 permalink: /students/poom/
 author_profile: true
+sidebar:
+  nav: "students"
 ---
 {% include toc %}
 

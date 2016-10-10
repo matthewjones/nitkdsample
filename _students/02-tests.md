@@ -1,11 +1,17 @@
 ---
-title: "Promotion Test Formalities and Procedures"
+title: "Promotion Testing"
 excerpt: "Promotion tests are very important events. They are symbolic of graduation from one level of learning to the next higher level. Therefore, they are very serious and formal. Your best attitude, manners, and discipline are equally as important as your physical performance."
 layout: single
 sitemap: true
 permalink: /students/tests/
 author_profile: true
+sidebar:
+  nav: "students"
 ---
+{% include toc %}
+
+## Formalities and Procedures
+
 Promotion tests are very important events. They are symbolic of graduation from one level of learning to the next higher level. Therefore, they are very serious and formal. Your best attitude, manners, and discipline are equally as important as your physical performance. 
 
 
@@ -36,15 +42,13 @@ At this time your group will be called back to the floor where you will be prese
 How well you perform on the test is up to you. Be sure that you feel that you have earned your new rank, and that you have put forth your best effort. It is important for each student to be satisfied with his/her own performance. 
 
 
-
-**The North Indy Belt Stripe System for promotion test eligibility**
+## Belt Stripe System for promotion test eligibility**
 
 
 During the period of training between promotion tests, students will have the opportunity to earn six colored stripes. These stripes are the requirements of eligibility for promotion to the next level of training. Each stripe indicates mastery of one of the components necessary for advancement. Below is an explanation of each colored stripe. 
 
 
 <table>
-	<tr><th colspan="2">Stripe</th><td><strong>Mastery required</strong></td></tr>
 	<tr><td>&nbsp;</td><td>White</td><td>mastery of all current stances</td></tr>
 	<tr><td bgcolor="yellow">&nbsp;</td><td>Yellow</td><td>mastery of all current level Formalities</td></tr>
 	<tr><td bgcolor="green">&nbsp;</td><td>Green</td><td>mastery of all current self-defense techniques</td></tr>

@@ -5,6 +5,8 @@ layout: single
 sitemap: true
 permalink: /students/pledge/
 author_profile: true
+sidebar:
+  nav: "students"
 ---
 I will observe the principles of Taekwondo. 
 

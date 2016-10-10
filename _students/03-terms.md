@@ -1,15 +1,19 @@
 ---
 title: "Terminology"
-excerpt: ""
+excerpt: "English to Korean terms"
 layout: single
 sitemap: true
 permalink: /students/terms/
 author_profile: true
+sidebar:
+  nav: "students"
 ---
 {% include toc %}
 
+## General Terms
+
+
 <table>
-<tr><th colspan="2">General Terms</th></tr>
 <tr><td>at ease</td><td>she uh</td></tr>
 <tr><td>attention</td><td>cha rea</td></tr>
 <tr><td>basic movements</td><td>ki bon dong jak</td></tr>
@@ -32,9 +36,13 @@ author_profile: true
 <tr><td>training hall</td><td>do jang</td></tr>
 <tr><td>training uniform</td><td>do bok</td></tr>
 <tr><td>yell</td><td>kiyap</td></tr>
-<tr><td colspan="2"><hr></td></tr>
+</table>
 
-<tr><th colspan="2">Blocking Techniques</th></tr>
+
+## Blocking Techniques
+
+
+<table>
 <tr><td>double knife-hand block</td><td>sudo sang dang makki</td></tr>
 <tr><td>knife-hand block</td><td>sudo makki</td></tr>
 <tr><td>low position block</td><td>ha dang makki</td></tr>
@@ -46,9 +54,13 @@ author_profile: true
 <tr><td>rising block</td><td>we son makki</td></tr>
 <tr><td>spreading block</td><td>hecho makki</td></tr>
 <tr><td>&quot;x&quot; block</td><td>yeot pero makki</td></tr>
-<tr><td colspan="2"><hr></td></tr>
+</table>
 
-<tr><th colspan="2">Kicking Techniques</th></tr>
+
+## Kicking Techniques
+
+
+<table>
 <tr><td>front snap kick</td><td>ap chagi</td></tr>
 <tr><td>hook kick</td><td>gul gi chagi</td></tr>
 <tr><td>in/out crescent kick</td><td>  ban dahl chagi</td></tr>
@@ -61,9 +73,13 @@ author_profile: true
 <tr><td>back turning side kick</td><td>de dol yea yap chagi</td></tr>
 <tr><td>back spin kick</td><td>de dol yea chagi</td></tr>
 <tr><td>back turning round house kick</td><td>de dol yea dol yea chagi</td></tr>
-<tr><td colspan="2"><hr></td></tr>
+</table>
 
-<tr><th colspan="2">Striking Techniques</th></tr>
+
+## Striking Techniques
+
+
+<table>
 <tr><td>back fist strike</td><td>yi kwon gong gyuck</td></tr>
 <tr><td>elbow strike</td><td>pal kum chi gong gyuck</td></tr>
 <tr><td>front punch</td><td>chung kwon</td></tr>
@@ -71,9 +87,13 @@ author_profile: true
 <tr><td>knee strike</td><td>mew rup</td></tr>
 <tr><td>middle position punch</td><td>jung dang gong gyuck</td></tr>
 <tr><td>spear-hand strike</td><td>kwan su gong gyuck</td></tr>
-<tr><td colspan="2"><hr></td></tr>
+</table>
 
-<tr><th colspan="2">Basic Stances</th></tr>
+
+## Basic Stances
+
+
+<table>
 <tr><td>back stance</td><td>hu gul ja se</td></tr>
 <tr><td>cat/tiger stance</td><td>bum ja se</td></tr>
 <tr><td>fighting stance</td><td>ja yu ja se</td></tr>
@@ -83,18 +103,26 @@ author_profile: true
 <tr><td>walking stance</td><td>ap ja se</td></tr>
 <tr><td>x-stance</td><td>yeot pero ja se</td></tr>
 <tr><td>mountain stance</td><td>san ja se</td></tr>
-<tr><td colspan="2"><hr></td></tr>
+</table>
 
-<tr><th colspan="2">Principles</th></tr>
-<tr><td>TENETS OF TAEKWON DO</td><td>JUNG SHIN</td></tr>
+
+## Principles
+
+
+<table>
+<tr><td>Tenets of Tae Kwon Do</td><td>jung shin</td></tr>
 <tr><td>courtesy</td><td>ye ui</td></tr>
 <tr><td>integrity</td><td>yom chi</td></tr>
 <tr><td>perseverance</td><td>in nae</td></tr>
 <tr><td>self control</td><td>guk gi</td></tr>
 <tr><td>indomitable spirit</td><td>baekgul boogool</td></tr>
-<tr><td colspan="2"><hr></td></tr>
+</table>
 
-<tr><th colspan="2">Conversational Korean</th></tr>
+
+## Conversational Korean
+
+
+<table>
 <tr><td>&quot;Hello.&quot;</td><td>Ahn yay ha seyo</td></tr>
 <tr><td>&quot;Hello.&quot; (on phone)</td><td>Yo bo seyo</td></tr>
 <tr><td>&quot;Hello, how are you?&quot;</td><td>Ahn yay hop shim nega</td></tr>
@@ -104,8 +132,11 @@ author_profile: true
 <tr><td>&quot;Good-bye.&quot; (if leaving)</td><td>Ahn yong he gae sip seyo</td></tr>
 </table>
 
+
+## Ordinal Numbers
+
+
 <table>
-<tr><th colspan="4">Ordinal Numbers</th></tr>
 <tr><td>first</td><td>il/cho</td><td>fourteenth</td><td>sip sa</td></tr>
 <tr><td>second</td><td>yee</td><td>fifteenth</td><td>sip oh</td></tr>
 <tr><td>third</td><td>sahm</td><td>sixteenth</td><td>sip yuk</td></tr>
@@ -119,9 +150,13 @@ author_profile: true
 <tr><td>eleventh</td><td>sip il</td><td>one hundredth</td><td>be sip</td></tr>
 <tr><td>twelfth</td><td>sip yee</td><td>one thousandth</td><td>chun sip</td></tr>
 <tr><td>thirteenth</td><td>sip sahm</td><td>ten thousandth</td><td>mahn sip</td></tr>
-<tr><td colspan="4"><hr></td></tr>
+</table>
 
-<tr><th colspan="4">Cardianl Numbers</th></tr>
+
+## Cardinal Numbers
+
+
+<table>
 <tr><td>zero</td><td>kong</td><td>fourteen</td><td>yuhl net</td></tr>
 <tr><td>one</td><td>hanna</td><td>fifteen</td><td>yuhl tasut</td></tr>
 <tr><td>two</td><td>dool</td><td>sixteen</td><td>yuhl yasut</td></tr>
@@ -136,9 +171,13 @@ author_profile: true
 <tr><td>eleven</td><td>yuhl hanna</td><td>one thousand</td><td>chun</td></tr>
 <tr><td>twelve</td><td>yuhl dool</td><td>ten thousand</td><td>mahn</td></tr>
 <tr><td>thirteen</td><td>yuhl set</td><td>&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td colspan="4"><hr></td></tr>
+</table>
 
-<tr><th colspan="4">Tournament Terminology</th></tr>
+
+## Tournament Terminology
+
+
+<table>
 <tr><td>blue</td><td>chung</td><td>3rd round</td><td>sahm weh jeon</td></tr>
 <tr><td>red</td><td>hong</td><td>begin</td><td>she jak</td></tr>
 <tr><td>referee</td><td>joo sim</td><td>stop/halt</td><td>go mahn</td></tr>

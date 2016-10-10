@@ -5,6 +5,8 @@ layout: single
 sitemap: true
 permalink: /tkd/history/
 author_profile: true
+sidebar:
+  nav: "tkd"
 ---
 Tae Kyon, the ancient name for Taekwondo, is as old as the history of the Hwarang Do (an ancient military school), and dates back some 1,300 years.
 
@@ -31,8 +33,8 @@ Today, Taekwondo is practiced by people all over the modern world and was, on Ju
 
 
 <figure>
-	<a href="/nitkdsample/images/ancient_korea.jpg"><img src="/nitkdsample/images/ancient_korea.jpg"></a>
-	<figcaption><a href="/nitkdsample/images/ancient_korea.jpg" title="6th century map of Korea">6th century map of Korea</a>.</figcaption>
+	<a href="{{ site.url }}{{ site.baseurl }}/images/ancient_korea.jpg"><img src="{{ site.url }}{{ site.baseurl }}/images/ancient_korea.jpg"></a>
+	<figcaption><a href="{{ site.url }}{{ site.baseurl }}/images/ancient_korea.jpg" title="6th century map of Korea">6th century map of Korea</a>.</figcaption>
 </figure>
 
 
