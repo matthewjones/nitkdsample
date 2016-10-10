@@ -9,8 +9,8 @@ main:
   - title: "Schedule"
     url: /schedule
 
-  - title: "Information"
-    url: /collection-archive
+  - title: "Taekwondo"
+    url: /tkd-info
 
 tkd:
   - title: "Taekwondo Information"
@@ -18,13 +18,13 @@ tkd:
       - title: "About"
         url: /tkd/about
       - title: "History"
-        url: /tkd/history/
+        url: /tkd/history
       - title: "Tenets"
-        url: /tkd/tenets/
+        url: /tkd/tenets
       - title: "Flags"
-        url: /tkd/flags/
+        url: /tkd/flags
       - title: "Calligraphy"
-        url: /tkd/calligraphy/
+        url: /tkd/calligraphy
 
 students:
   - title: "Student Information"
