@@ -37,19 +37,21 @@ How well you perform on the test is up to you. Be sure that you feel that you ha
 
 
 
-__THE NORTH INDY BELT STRIPE SYSTEM FOR PROMOTION TEST ELIGIBILITY__
+**The North Indy Belt Stripe System for promotion test eligibility**
 
 
 During the period of training between promotion tests, students will have the opportunity to earn six colored stripes. These stripes are the requirements of eligibility for promotion to the next level of training. Each stripe indicates mastery of one of the components necessary for advancement. Below is an explanation of each colored stripe. 
 
-| Stripe 		| Mastery required 									|
-| --------		| --------											|
-| White Stripe	| mastery of all current stances					|
-| Yellow Stripe	| mastery of all current level Formalities			|
-| Green Stripe	| mastery of all current self-defense techniques 	|
-| Blue Stripe	| mastery of all current kicks						|
-| Red Stripe	| mastery of all current blocks and punches			|
-| Black Stripe	| proper attitude and effort shown in class			|
+
+<table>
+	<tr><th colspan="2">Stripe</th><td>**Mastery required**</td></tr>
+	<tr><td>&nbsp;</td><td>White</td><td>mastery of all current stances</td></tr>
+	<tr><td bgcolor="yellow">Yellow</td><td>mastery of all current level Formalities</td></tr>
+	<tr><td bgcolor="green">Green</td><td>mastery of all current self-defense techniques</td></tr>
+	<tr><td bgcolor="blue">Blue</td><td>mastery of all current kicks</td></tr>
+	<tr><td bgcolor="red">Red</td><td>mastery of all current blocks and punches</td></tr>
+	<tr><td bgcolor="black">Black</td><td>proper attitude and effort shown in class</td></tr>
+</table>
 
 
 Stripes are presented during class to the individual student at the time they are earned. Students have approximately three months to earn the six stripes.
