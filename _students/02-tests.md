@@ -1,5 +1,5 @@
 ---
-title: "Promotion Test (SIMSA) Formalities and Procedures"
+title: "Promotion Test Formalities and Procedures"
 excerpt: "Promotion tests are very important events. They are symbolic of graduation from one level of learning to the next higher level. Therefore, they are very serious and formal. Your best attitude, manners, and discipline are equally as important as your physical performance."
 layout: single
 sitemap: true
@@ -44,13 +44,13 @@ During the period of training between promotion tests, students will have the op
 
 
 <table>
-	<tr><th colspan="2">Stripe</th><td>**Mastery required**</td></tr>
+	<tr><th colspan="2">Stripe</th><td> **Mastery required** </td></tr>
 	<tr><td>&nbsp;</td><td>White</td><td>mastery of all current stances</td></tr>
-	<tr><td bgcolor="yellow">Yellow</td><td>mastery of all current level Formalities</td></tr>
-	<tr><td bgcolor="green">Green</td><td>mastery of all current self-defense techniques</td></tr>
-	<tr><td bgcolor="blue">Blue</td><td>mastery of all current kicks</td></tr>
-	<tr><td bgcolor="red">Red</td><td>mastery of all current blocks and punches</td></tr>
-	<tr><td bgcolor="black">Black</td><td>proper attitude and effort shown in class</td></tr>
+	<tr><td bgcolor="yellow">&nbsp;</td><td>Yellow</td><td>mastery of all current level Formalities</td></tr>
+	<tr><td bgcolor="green">&nbsp;</td><td>Green</td><td>mastery of all current self-defense techniques</td></tr>
+	<tr><td bgcolor="blue">&nbsp;</td><td>Blue</td><td>mastery of all current kicks</td></tr>
+	<tr><td bgcolor="red">&nbsp;</td><td>Red</td><td>mastery of all current blocks and punches</td></tr>
+	<tr><td bgcolor="black">&nbsp;</td><td>Black</td><td>proper attitude and effort shown in class</td></tr>
 </table>
 
 
