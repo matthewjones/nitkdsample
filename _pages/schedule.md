@@ -5,6 +5,8 @@ sitemap: true
 permalink: /schedule/
 author_profile: true
 ---
+{% include toc %}
+
 ## Fishers YMCA
 **Tuesday and Thursday**
 

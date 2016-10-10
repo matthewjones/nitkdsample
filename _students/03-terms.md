@@ -6,6 +6,8 @@ sitemap: true
 permalink: /students/terms/
 author_profile: true
 ---
+{% include toc %}
+
 <table>
 <tr><th colspan="2">General Terms</th></tr>
 <tr><td>at ease</td><td>she uh</td></tr>
@@ -47,7 +49,7 @@ author_profile: true
 <tr><td colspan="2"><hr></td></tr>
 
 <tr><th colspan="2">Kicking Techniques</th></tr>
-<tr><td>front snap kick<td>ap chagi</td></tr>
+<tr><td>front snap kick</td><td>ap chagi</td></tr>
 <tr><td>hook kick</td><td>gul gi chagi</td></tr>
 <tr><td>in/out crescent kick</td><td>  ban dahl chagi</td></tr>
 <tr><td>out/in crescent kick</td><td>baal dang chagi</td></tr>

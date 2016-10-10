@@ -5,6 +5,8 @@ sitemap: true
 permalink: /about/
 author_profile: true
 ---
+{% include toc %}
+
 ## North Indy Taekwondo Club
 The North Indy Taekwondo Club was founded on May 29, 1979 by Grandmaster Duncan Williams when he was a 2nd Dan Black Belt in the Chung Do Kwan style of Taekwondo.  Grandmaster Williams is presently a 7th Dan Black Belt with over forty years experience in the Korean martial arts of taekwondo and hapkido.
 

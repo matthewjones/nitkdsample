@@ -44,7 +44,7 @@ During the period of training between promotion tests, students will have the op
 
 
 <table>
-	<tr><th colspan="2">Stripe</th><td> **Mastery required** </td></tr>
+	<tr><th colspan="2">Stripe</th><td><strong>Mastery required</strong></td></tr>
 	<tr><td>&nbsp;</td><td>White</td><td>mastery of all current stances</td></tr>
 	<tr><td bgcolor="yellow">&nbsp;</td><td>Yellow</td><td>mastery of all current level Formalities</td></tr>
 	<tr><td bgcolor="green">&nbsp;</td><td>Green</td><td>mastery of all current self-defense techniques</td></tr>

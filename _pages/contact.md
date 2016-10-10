@@ -5,6 +5,8 @@ sitemap: true
 permalink: /contact/
 author_profile: true
 ---
+{% include toc %}
+
 ## North Indy Taekwondo Club
 <address>
 14829 Jonathan Drive<br>
