@@ -9,8 +9,8 @@ main:
   - title: "Schedule"
     url: /schedule
 
-  - title: "Taekwondo"
-    url: /schedule
+  - title: "Information"
+    url: /collection-archive
 
 tkd:
   - title: "Taekwondo Information"

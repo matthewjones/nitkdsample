@@ -1,6 +1,10 @@
 ---
 title: "About Taekwondo"
 excerpt: "TAE KWON DO is a Korean style martial art dating back to the 6th century A.D. Tae means to kick or smash with the foot; Kwon means to punch or strike with the fist; Do means the art or method of. "
+layout: single
+sitemap: true
+permalink: /tkd/about/
+author_profile: true
 ---
 TAE KWON DO is a Korean style martial art dating back to the 6th century A.D. Tae means to kick or smash with the foot; Kwon means to punch or strike with the fist; Do means the art or method of. Therefore, taekwondo is the Korean art of foot and hand fighting. 
 

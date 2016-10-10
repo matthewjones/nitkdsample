@@ -164,9 +164,11 @@ kramdown:
 # Collections
 collections:
   tkd:
+    label: "Taekwondo Information"
     output: true
     permalink: /:collection/:path/
   students:
+    label: "Student Information"
     output: true
     permalink: /:collection/:path/
 
