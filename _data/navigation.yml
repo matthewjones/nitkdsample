@@ -8,3 +8,32 @@ main:
 
   - title: "Schedule"
     url: /schedule
+
+  - title: "Taekwondo"
+    url: /schedule
+
+tkd:
+  - title: "Taekwondo Information"
+    children:
+      - title: "About"
+        url: /tkd/about
+      - title: "History"
+        url: /tkd/history/
+      - title: "Tenets"
+        url: /tkd/tenets/
+      - title: "Flags"
+        url: /tkd/flags/
+      - title: "Calligraphy"
+        url: /tkd/calligraphy/
+
+students:
+  - title: "Student Information"
+    children:
+      - title: "Pledge"
+        url: /students/pledge
+      - title: "Testing"
+        url: /students/tests
+      - title: "Terminology"
+        url: /students/terms
+      - title: "Forms"
+        url: /students/poom
