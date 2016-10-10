@@ -47,7 +47,7 @@ author_profile: true
 <tr><td>&nbsp;</td><td>Choi Young</td><td>45 movements</td><td>General of the Koryo Dynasty</td></tr>
 <tr><td>&nbsp;</td><td>Ko Dang</td><td>39 movements</td><td>Great Korean politician and revolutionary</td></tr>
 <tr><td>*</td><td>Ji Tae*</td><td>35 movements</td><td>Symbol of the Earth (EARTH)</td></tr>
-<tr><td>&nbsp;</td><td><td>Chung Jang</td><td>52 movements</td><td>Commander of the royal troops Lee Dynasty</td></tr>
+<tr><td>&nbsp;</td><td>Chung Jang</td><td>52 movements</td><td>Commander of the royal troops Lee Dynasty</td></tr>
 <tr><th colspan="4">6th Dan</th></tr>
 <tr><td>*</td><td>Cheon Kwon*</td><td>41 movements</td><td>Central part of nature around which all things revolve</td></tr>
 <tr><td>*</td><td>Han Soo*</td><td>31 movements</td><td>Water, the symbol of fluidity and adaptability (WATER)</td></tr>
