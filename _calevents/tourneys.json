@@ -1,4 +1,4 @@
-
+[
         {
             title: 'Fight Night at Indiana Martial Arts Center (Cicero, IN)',
             start: '2016-10-14T18:00:00',
@@ -35,3 +35,4 @@
             start: '2016-12-04',
             color: '#ff0'
         }
+]
