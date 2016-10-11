@@ -12,12 +12,12 @@
             color: '#0f0'
         },
         {
-            title: 'Master Hite\'s Tri-State Tournament (Lawrenceburg,IN)',
+            title: 'Master Hite Tri-State Tournament (Lawrenceburg,IN)',
             start: '2016-10-22',
             color: '#f00'
         },
         {
-            title: 'Grand Master Schwab\'s Buckeye Championship (Dayton, OH)',
+            title: 'Grand Master Schwab Buckeye Championship (Dayton, OH)',
             start: '2016-11-05',
             color: '#f00'
         },
@@ -27,7 +27,7 @@
             color: '#f00'
         },
         {
-            title: 'Master Sharp\'s Midwest Open (Decatur, IL)',
+            title: 'Master Sharp Midwest Open (Decatur, IL)',
             start: '2016-11-19',
             color: '#f00'
         },
