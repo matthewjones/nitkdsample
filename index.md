@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: indy_masthead3.jpg
+  overlay_image: indy_masthead4.jpg
   caption:
 excerpt: 'Founded in 1979 on the belief that martial arts training should be fun as well as disciplined and structured, our students are well-disciplined individuals who are serious about their training.'
 feature_row:
