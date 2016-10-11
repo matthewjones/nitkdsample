@@ -15,21 +15,15 @@ $(document).ready(function() {
     // page is now ready, initialize the calendar...
 
     $('#calendar').fullCalendar({
-        // put your options and callbacks here
-
-    events: [
-        {
-            title: 'Event1',
-            start: '2016-10-24'
-        },
-        {
-            title: 'Event2',
-            start: '2016-10-15'
-        }
-        // etc...
-    ],
-    color: 'yellow',   // an option!
-    textColor: 'black' // an option!
+    	header: {
+          left: 'prev,next today',
+          center: 'title',
+          right: 'month,agendaWeek,agendaDay'
+       },
+        eventSources: [
+        '{{ base_path }}/calevents/tourneys.json',        
+        '{{ base_path }}/calevents/avon.json'
+    ]
 
     })
 
