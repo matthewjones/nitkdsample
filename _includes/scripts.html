@@ -21,7 +21,10 @@ $(document).ready(function() {
           right: 'month,agendaWeek,agendaDay'
        },
         eventSources: [
-			'{{ base_path }}/calevents/tourneys.json'
+          {
+            url: '{{ base_path }}/calevents/tourneys.json'
+           ,  color: 'yellow'
+          }
 		]
     })
 
