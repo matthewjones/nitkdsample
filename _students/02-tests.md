@@ -42,7 +42,7 @@ At this time your group will be called back to the floor where you will be prese
 How well you perform on the test is up to you. Be sure that you feel that you have earned your new rank, and that you have put forth your best effort. It is important for each student to be satisfied with his/her own performance. 
 
 
-## Belt Stripe System for promotion test eligibility**
+## Belt Stripe System for promotion test eligibility
 
 
 During the period of training between promotion tests, students will have the opportunity to earn six colored stripes. These stripes are the requirements of eligibility for promotion to the next level of training. Each stripe indicates mastery of one of the components necessary for advancement. Below is an explanation of each colored stripe. 

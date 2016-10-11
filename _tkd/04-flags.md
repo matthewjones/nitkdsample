@@ -13,7 +13,7 @@ sidebar:
 ## The Flag Of The United States Of America		
 
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Flag_of_South_Korea.svg#/media/File:Flag_of_South_Korea.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="Flag of South Korea.svg" height="145" width="218"></a></p>
+<p><a href="https://en.wikipedia.org/wiki/File:Flag_of_the_United_States.svg#/media/File:Flag_of_the_United_States.svg"><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Flag of the United States of America" height="116" width="220"></a></p>
 
 
 The basic flag of the United States is one of the oldest in the world. Every color and marking on the flag has meaning. The thirteen stripes represent the original thirteen colonies of our country. The fifty stars stand for the fifty individual states. Each of the colors was selected for their symbolic meaning. The red stands for "courage" and the blood that was shed for our freedom; the white stands for "purity" and the innocence of our new nation; and the blue stands for "loyalty" and the justice of our constitution. 
@@ -28,7 +28,7 @@ There is a proper way to display the U.S. flag. First, the blue area, known as t
 ## The South Korean National Flag	
 
 
-<p><a href="https://en.wikipedia.org/wiki/File:Flag_of_the_United_States.svg#/media/File:Flag_of_the_United_States.svg"><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Flag of the United States of America" height="116" width="220"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Flag_of_South_Korea.svg#/media/File:Flag_of_South_Korea.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="Flag of South Korea.svg" height="145" width="218"></a></p>
 
 
 The South Korean National Flag, known as Tae Geuk, is a composite of oriental symbolism. It consists of a white background on which is found a circle, equally divided and perfectly balanced. 

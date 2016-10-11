@@ -11,7 +11,7 @@ sidebar:
 ## Jung Shin
 
 <table>
-	<tr><td rowspan="5"><img src="/nitkdsample/images/kor1.gif"></td>
+	<tr><td rowspan="5" align="center"><img src="/nitkdsample/images/kor1.gif"></td>
 		<td>Courtesy</td><td>Ye Ui</td>
 	</tr>
 	<tr><td>Integrity</td><td>Yom Chi</td></tr>
