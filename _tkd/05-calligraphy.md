@@ -12,6 +12,7 @@ sidebar:
 
 <div class="cf"><img src="{{ site.url }}{{ site.baseurl }}/images/image6771.gif" alt="image-left" class="align-left" /> &quot;Cha Ryu&quot; means attention.  The student must give his full attention to the instructor before a movement begins and after it ends.  By paying close attention the student can get the maximum information from what the instructor is teaching and adapt it to himself.  Attention is full concentration or focusing the spirit.
 </div>
+<br>
 
 
 <h2 class="cf">Kyung Re</h2>
@@ -19,6 +20,7 @@ sidebar:
 
 <div class="cf"><img src="{{ site.url }}{{ site.baseurl }}/images/image6831.gif" alt="image-left" class="align-left" />  &quot;Kyung Re&quot; means bow, or salute.  Every student entering a TaeKwon-do dojang must perform this bow, executing it once to the Korean and American flags, and a second time to the instructor.  Kyung Re is a demonstration of respect on the part of the student, respect for the art of TaeKwon-Do and for his master, as well as a gesture of personal humility.  The correct bow is executed by bending the body forward 30-45 degrees from the waist while simultaneously inclining the head.  The slight bow given at the beginning and finish of any activity perhaps best exemplifies the Oriental concept of modesty, wherein an individual&apos;s development is compared to the ripening of grain.  As he grows in wisdom and maturity &quot;<i> like the ripening grain</i>&quot; his head is lowered.  This is &quot;Kyung Re&quot; in Korean.
 </div>
+<br>
 
 
 <h2 class="cf">Chun Bi</h2>
@@ -29,6 +31,7 @@ sidebar:
  
 But Chunbi actually involves much more.  We are taught that everything has a beginning and an end; and, in a sense, to begin is to be already half  finished.  Therefore, the Chunbi stance indicates a preparedness to complete the entire action.
 </div>
+<br>
 
 
 <h2 class="cf">SHi O</h2>
@@ -36,6 +39,7 @@ But Chunbi actually involves much more.  We are taught that everything has a beg
 
 <div class="cf"><img src="{{ site.url }}{{ site.baseurl }}/images/image6721.gif" alt="image-left" class="align-left" />  &quot;Shi o&quot; means rest or relax.  The instructor will give the command.  &quot;Shi o&quot; with completion of every TaeKwon-Do movement.  Getting enough rest by controlling the mind and body will generate energy for the next movement.  During this period one must relax completely and use proper breathing techniques.  Deep breathing will supply enough oxygen to the blood cells to clean the body.  Enough rest is tomorrow&apos;s energy.
 </div>
+<br>
 
 
 <h2 class="cf">Ki Cho</h2>
@@ -46,6 +50,7 @@ But Chunbi actually involves much more.  We are taught that everything has a beg
 
 Ki Cho characteristically teaches the tenets of patience and self discipline more than any other part of TaeKwon-Do.  Strengthening the basics will strengthen form, sparring, and spirit as well.
 </div>
+<br>
 
 
 <h2 class="cf">Ku Man</h2>
