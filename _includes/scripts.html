@@ -5,7 +5,7 @@
 
 {% if page.calendered %}
 <link rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.0.1/fullcalendar.min.css' />
-<link rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.0.1/fullcalendar.print.css' media='print' />
+<link rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.0.1/fullcalendar.print.css' />
 
 <script src='//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.0.1/fullcalendar.min.js'></script>
 
@@ -21,7 +21,8 @@ $(document).ready(function() {
           right: 'month,agendaWeek,agendaDay'
        },
         eventSources: [
-        '{{ base_path }}/calevents/tourneys.json'
+        '{{ base_path }}/calevents/tourneys.json',        
+        '{{ base_path }}/calevents/avon.json'
     ]
 
     })
