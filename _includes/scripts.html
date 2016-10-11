@@ -20,9 +20,43 @@ $(document).ready(function() {
           center: 'title',
           right: 'month,agendaWeek,agendaDay'
        },
-        eventSources: [
-        '{{ base_path }}/calevents/tourneys.json',        
-        '{{ base_path }}/calevents/avon.json'
+        events: [
+        {
+            title: 'Fight Night at Indiana Martial Arts Center (Cicero, IN)',
+            start: '2016-10-14T18:00:00',
+            end: '2016-10-14T19:30:00',
+            color: '#f00'
+        },
+        {
+            title: 'Demo at Pike YMCA',
+            start: '2016-10-08T12:00:00',
+            color: '#0f0'
+        },
+        {
+            title: 'Master Hite Tri-State Tournament (Lawrenceburg,IN)',
+            start: '2016-10-22',
+            color: '#f00'
+        },
+        {
+            title: 'Grand Master Schwab Buckeye Championship (Dayton, OH)',
+            start: '2016-11-05',
+            color: '#f00'
+        },
+        {
+            title: 'Grand Master Crays Annual Tournament (Noblesville, IN)',
+            start: '2016-11-12',
+            color: '#f00'
+        },
+        {
+            title: 'Master Sharp Midwest Open (Decatur, IL)',
+            start: '2016-11-19',
+            color: '#f00'
+        },
+        {
+            title: 'Promotion Test (Baxter YMCA)',
+            start: '2016-12-04',
+            color: '#ff0'
+        }
     ]
 
     })
