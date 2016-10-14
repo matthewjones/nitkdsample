@@ -23,11 +23,11 @@ $(document).ready(function() {
 
         eventSources: [
         {
-        	{% assign evcount = 0 %}
+        	{% assign evcount = '0' %}
             events: [ // put the array in the `events` property
             	{% for item in site.data.events %}
-            	{% if evcount != 0 %}, {% endif %}
-            	{% assign evcount = 1 %}
+            	{% if evcount != '0' %}, {% endif %}
+            	{% assign evcount = '1' %}
                 {
                  	title: '{{item.title}}',
                     start  : '{{item.start}}'
