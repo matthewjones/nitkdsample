@@ -56,8 +56,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               :
-facebook: https://www.facebook.com/groups/northindytaekwondo/
-  username               :
+facebook: 
+  username               : groups/northindytaekwondo
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
