@@ -27,9 +27,8 @@ $(document).ready(function() {
             events: [ // put the array in the `events` property
             	{% for item in site.data.events %}
             	{% if evcount != 0 %}, {% endif %}
-            	{% assign evcount | plus: 1 %}
+            	{% assign evcount = 1 %}
                 {
-                 	ctr : {{evcount}},
                  	title: '{{item.title}}',
                     start  : '{{item.start}}'
                     {% if item.end %}, end  : '{{item.end}}'{% endif %}
