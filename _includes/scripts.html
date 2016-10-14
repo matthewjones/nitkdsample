@@ -30,9 +30,9 @@ $(document).ready(function() {
                 {
                  	ctr : {{evcount}},
                  	title: '{{item.title}}',
-                    start  : '{{item.start}}',
-                    {% if item.end %}end  : '{{item.end}}',{% endif %}
-                    {% if item.color %}color  : '{{item.color}}',{% endif %}
+                    start  : '{{item.start}}'
+                    {% if item.end %}, end  : '{{item.end}}'{% endif %}
+                    {% if item.color %}, color  : '{{item.color}}'{% endif %}
                 }
 				{% endfor %}
             ]
