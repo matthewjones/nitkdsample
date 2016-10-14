@@ -20,33 +20,25 @@ $(document).ready(function() {
           center: 'title',
           right: 'month,agendaWeek,agendaDay'
        },
-       eventSources: [
 
-        // your event source
+        eventSources: [
         {
+        	{% assign evcount = 0 %}
             events: [ // put the array in the `events` property
+            	{% for item in site.data.events %}
+            	{% if evcount != 0 %}, {% endif %}
+            	{% evcount | plus: 1 %}
                 {
-                    title  : 'event1',
-                    start  : '2016-10-01'
-                },
-                {
-                    title  : 'event2',
-                    start  : '2016-10-05',
-                    end    : '2016-10-07'
-                },
-                {
-                    title  : 'event3',
-                    start  : '2016-10-09T12:30:00'
+                 	ctr : {{evcount}},
+                 	title: '{{item.title}}',
+                    start  : '{{item.start}}'
+                    {% if item.end %}, end  : '{{item.end}}'{% endif %}
+                    {% if item.color %}, color  : '{{item.color}}'{% endif %}
                 }
-            ],
-            color: 'black',     // an option!
-            textColor: 'yellow' // an option!
+				{% endfor %}
+            ]
         }
-
-        // any other event sources...
-
-    ]
-
+      ]
     })
 
 });
