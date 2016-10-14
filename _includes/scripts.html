@@ -27,7 +27,6 @@ $(document).ready(function() {
             	{% for item in site.data.events %}
             	{% if item != site.data.events | first %}, {% endif %}            	
                 {
-                 	ctr : {{evcount}},
                  	title: '{{item.title}}',
                     start  : '{{item.start}}'
                     {% if item.end %}, end  : '{{item.end}}'{% endif %}
