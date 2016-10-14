@@ -25,7 +25,7 @@ $(document).ready(function() {
         {
         	{% assign evcount = '0' %}
             events: [ // put the array in the `events` property
-            	{% for item in site.data.events %}
+            	{% for item in site.data.classes %}
             	{% if evcount != '0' %}, {% endif %}
             	{% assign evcount = '1' %}
                 {
@@ -36,6 +36,23 @@ $(document).ready(function() {
                 }
 				{% endfor %}
             ]
+        }, 
+         {
+        	{% assign evcount = '0' %}
+            events: [ // put the array in the `events` property
+            	{% for item in site.data.events %}
+            	{% if evcount != '0' %}, {% endif %}
+            	{% assign evcount = '1' %}
+                {
+                 	title: '{{item.title}}',
+                    start  : '{{item.start}}'
+                    {% if item.end %}, end  : '{{item.end}}'{% endif %}
+                    {% if item.color %}, color  : '{{item.color}}'{% endif %}
+                }
+				{% endfor %}
+            ],
+            color: '#808080',     // an option!
+            textColor: '#222' // an option!
         }
       ]
     })
